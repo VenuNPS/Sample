@@ -1,2 +1,1 @@
-Hello Python. 
-Hello python, can i beging you to learn.
+Did i changed anything now python.
